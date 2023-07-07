@@ -1,0 +1,21 @@
+Candidate ID,Candidate Name,DOB,Election Name,Party Name,District,Constituency,Address,Phone No,Email Id
+101,Narendra Modi,17/09/1950,General Elections 2024,Bharatiya Janata Party,Varanasi,Varanasi,South Block,9876543210,narendramodi@example.com
+102,Rahul Gandhi,19/06/1970,General Elections 2024,Indian National Congress,Amethi,Amethi,Tughlaq Lane,8765432109,rahulgandhi@example.com
+103,Amit Shah,22/10/1964,General Elections 2024,Bharatiya Janata Party,Ahmedabad,Gandhinagar,Shah Alam Road,7654321098,amitshah@example.com
+104,Sonia Gandhi,09/12/1946,General Elections 2024,Indian National Congress,Rae Bareli,Rae Bareli,10 Janpath,6543210987,soniagandhi@example.com
+105,Mamata Banerjee,05/01/1955,General Elections 2024,Trinamool Congress,Kolkata,South Kolkata,Harish Chatterjee Street,5432109876,mamatabanerjee@example.com
+106,Arvind Kejriwal,16/08/1968,General Elections 2024,Aam Aadmi Party,New Delhi,New Delhi,Civil Lines,4321098765,arvindkejriwal@example.com
+107,Rajnath Singh,10/07/1951,General Elections 2024,Bharatiya Janata Party,Lucknow,Lucknow,2 Rajaji Marg,3210987654,rajnathsingh@example.com
+108,Mayawati,15/01/1956,General Elections 2024,Bahujan Samaj Party,Lucknow,Lucknow,Mall Avenue,2109876543,mayawati@example.com
+109,Mamata Banerjee,05/01/1955,General Elections 2024,Trinamool Congress,Kolkata,East Kolkata,Harish Chatterjee Street,1098765432,mamatabanerjee2@example.com
+110,Yogi Adityanath,05/06/1972,General Elections 2024,Bharatiya Janata Party,Gorakhpur,Gorakhpur,Gorakhnath Mandir,0987654321,yogiadityanath@example.com
+111,Akhilesh Yadav,01/07/1973,General Elections 2024,Samajwadi Party,Lucknow,Lucknow,Vikramaditya Marg,987654321,akhileshyadav@example.com
+112,Ravi Shankar Prasad,30/08/1954,General Elections 2024,Bharatiya Janata Party,Patna,Patna Sahib,Boring Road,87654321,ravishankarprasad@example.com
+113,Priyanka Gandhi Vadra,12/01/1972,General Elections 2024,Indian National Congress,Rae Bareli,Rae Bareli,Gandhi Ashram,7654321,priyankagandhivadra@example.com
+114,Devendra Fadnavis,22/07/1970,General Elections 2024,Bharatiya Janata Party,Mumbai,Mumbai South,South Walk,6543210,devendrafadnavis@example.com
+115,Mehbooba Mufti,22/05/1959,General Elections 2024,Peoples Democratic Party,Srinagar,Srinagar,Nowgam Bypass,543210,mehboobamufti@example.com
+116,Shivraj Singh Chouhan,05/03/1959,General Elections 2024,Bharatiya Janata Party,Bhopal,Bhopal,Shyamla Hills,432109,shivrajsinghchouhan@example.com
+117,Manish Sisodia,05/01/1972,General Elections 2024,Aam Aadmi Party,New Delhi,New Delhi,Patparganj,321098,manishsisodia@example.com
+118,Jyotiraditya Scindia,01/01/1971,General Elections 2024,Bharatiya Janata Party,Gwalior,Gwalior,Jai Vilas Palace,210987,jyotiradityascindia@example.com
+119,Smriti Irani,23/03/1976,General Elections 2024,Bharatiya Janata Party,Amethi,Amethi,Saket,109876,smritiirani@example.com
+120,Prakash Javadekar,30/01/1951,General Elections 2024,Bharatiya Janata Party,Pune,Pune,FC Road,0987654,prakashjavadekar@example.com
